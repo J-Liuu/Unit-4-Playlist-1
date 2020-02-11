@@ -1,0 +1,65 @@
+.InputContainers {
+  display: flex;
+  justify-content: space-between
+}
+
+body {
+  background: white;
+  text-align:center;
+}
+  
+input {
+  width:200px;
+  height:30px;
+  border: 2px solid black;
+  padding:2px;
+}
+
+h1{
+text-align: center;
+font-weight:bold;
+background-color:red;
+color:white;
+padding:2px;
+border-radius:20px;
+}
+.button {
+  width:150px;
+  height:30px;
+  border-radius:20px;
+  
+}
+.playlist {
+  display:flex;
+  justify-content: space-around;
+  border : 2px solid black;
+}
+
+.result{
+  display:flex;
+  justify-content: space-around;
+   margin-left:26px;
+ 
+
+}
+h2{
+ background-color: red;
+ border: 3px solid red;
+ border-width:3px;
+ border-radius: 25px;
+ padding:5px; 
+ color:white;
+}
+.outline {
+  border : 2px solid black;
+  padding:10px;
+}
+h3 {
+  float:left;
+  margin-top:-4px;
+  color:grey;
+
+}
+marquee {
+  color:red;
+}
